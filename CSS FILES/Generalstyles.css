@@ -1,0 +1,146 @@
+
+#{
+    font-family: Verdana;
+    color: blueviolet;
+    background-color: aqua;
+
+}
+#h1styles{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+#liststyle{
+    list-style-type: none;
+    text-decoration: none;
+
+}
+.pstyle{
+    font-weight: 300px;
+    background-color: blue;
+   /* font-style: italic;*/
+}
+.maindiv{
+    background-color: blueviolet;
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+}.im{
+    width: 400px;
+    height: 300px;
+}
+.sideimg{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-top: 5%;
+}
+.innerdiv{
+    width:90%;
+    height: 90%;
+    border: 1px solid black;
+    float: ;
+}
+.BA{
+    background-color: black;
+}
+div.sample{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    float: left;
+    
+    
+}
+div.x{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+
+    
+
+}
+div.z{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin-left: 10px;
+    float: left;
+    
+
+}
+.img{
+    width: 20%;
+    height: 15%;
+    float: right;
+    margin-bottom: 10px;
+}
+div.p{
+    border: 4px;
+    margin-bottom: 10px;
+    padding: 20px;
+    margin-right: 7px;
+}
+ul{
+    background-color: bisque;
+    width: 300px;
+    list-style-type: nono;
+    padding: o;
+    text-align: center;
+}
+li a {
+    color: rgb(163, 22, 22);
+    text-decoration: non;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+
+
+}
+li a:hover{
+   background-color:rgb(126, 92, 28) ;
+   color: rgb(43, 255, 0);
+}
+.active{
+    background-color: red;
+    color: rgb(255, 0, 64);
+    display: block;
+}
+div.parent{
+    width: 70%;
+    float: right;
+}
+div.p{
+    margin: 50px;
+    border: 5px; 
+    border: solid;
+}
+.b{
+    background-color: rgb(238, 25, 185);
+}
+div.c{
+    float: left;
+    margin-top: 2px;
+    margin-right: 4px;
+}
+Contact
+div.xx{
+    background-color: rgb(217, 255, 0);
+}
+div.jj{
+    color:rgb(225, 0, 255) ;
+    display: inline-flex;
+    margin-left: 10px;
+}
+.ou{
+    background-color: rgb(255, 0, 157);
+    display: block;
+}
+.SS{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
